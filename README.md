@@ -15,4 +15,8 @@ A kind thanks to:
 [gh-hello-friend]: https://github.com/panr/hugo-theme-hello-friend
 [gh-hermit]: https://github.com/Track3/hermit
 
-See their licences.
+## Usage 
+
+Probably use the authors above rather than this - 
+its a quick hack. 
+That said, I updated the licence.
