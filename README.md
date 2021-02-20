@@ -1,5 +1,5 @@
 ---
-# Helfring-a (wip)
+# Helfringa (wip/hack)
 
 A further mod to hello-friend-ng because I wanted it bluer + other stuff.
 
