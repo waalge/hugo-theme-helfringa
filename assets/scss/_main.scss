@@ -184,15 +184,9 @@ code {
   font-family: Consolas, Monaco, Andale Mono, Ubuntu Mono, monospace;
   font-display: auto;
   font-feature-settings: normal;
-  background: $light-background-secondary;
   padding: 1px 6px;
   margin: 0 2px;
-  border-radius: 5px;
   font-size: 0.95rem;
-
-  .dark-theme & {
-    background: $dark-background-secondary;
-  }
 }
 
 pre {
