@@ -3,18 +3,21 @@
 /* Light theme color */
 $light-background: #fff;
 $light-background-secondary: #eaeaea;
-$light-color: #222;
+$light-color: #224;
 $light-color-secondary: #999;
 $light-border-color: #dcdcdc;
 $light-table-color: #dcdcdc;
+$light-header: #fafafa;
 
 /* Dark theme colors */
-$dark-background: #232425;
-$dark-background-secondary: #3b3d42;
-$dark-color: #a9a9b3;
-$dark-color-secondary: #b3b3bd;
-$dark-border-color: #4e4e57;
+$dark-background: #192030;
+$dark-background-secondary: #333545;
+$dark-color: #b9b9c3;
+$dark-color-secondary: #c3c3cd;
+$dark-border-color: #3e3e67;
 $dark-table-color: #4e4e57;
+$dark-header: #1b1c3d;
+$dark-background-code: #212020;
 
 $media-size-phone: "(max-width: 684px)";
 $media-size-tablet: "(max-width: 900px)";

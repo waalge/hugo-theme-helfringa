@@ -1,11 +1,11 @@
 .menu {
-  background: #fafafa;
+  background: $light-header;
   border-right: 1px solid;
   margin-right: 18px;
   z-index: 9999;
 
   .dark-theme & {
-    background: #1b1c1d;
+    background: $dark-header;
   }
 
   @media #{$media-size-phone} {
